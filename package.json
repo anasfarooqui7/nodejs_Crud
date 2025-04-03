@@ -1,5 +1,5 @@
 {
-  "name": "form_curd",
+  "name": "form_curd_with_age_middleware",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
